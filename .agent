@@ -1,0 +1,143 @@
+# UART-CIRC agent instructions
+
+## Scope and design authority
+
+These instructions apply to all work in this repository. Follow the design in
+`UART-circular.md` and the verification requirements in
+`UART-circular-test-plan.md`. Keep the RTL, tests, and documents consistent.
+
+The target system clock is 75 MHz, the maximum intended UART rate is 4 Mbaud,
+the frame format is 8N1, and the default circular FIFO depth is 512 bytes.
+Use the documented full/empty, read-response, overflow, and reset contracts.
+
+Target Altera MAX 10 10M16SAE144C8G, selected by the user. The user has authorized
+Quartus compilation and arbitrary provisional I/O locations. Let Quartus assign
+the pins automatically and clearly identify I/O constraints as provisional.
+Verify MAX 10 device-support installation before running a target-specific build;
+generic Quartus availability is not sufficient. Device-library preflight has
+confirmed MAX 10 and the selected part in the installed Quartus database.
+
+LogicLock is not required. The user explicitly permits ignoring license advisory
+292013. Do not create LogicLock regions; disable use of its balancing constraints.
+Keep that advisory visible in logs and distinguish it from unresolved warnings.
+The user also permits deferring Quartus power warnings for now, including 16562
+(single-supply power review) and 215044 (missing board thermal model). Keep their
+logs and power estimates; they do not block this provisional implementation.
+Do not treat those deferrals as completed board power validation.
+
+Implement synthesizable RTL and self-checking testbenches in VHDL, using `.vhd`
+source files. Use VHDL-2008 as the project language standard and compile with
+ModelSim `vcom -2008`; configure Quartus for VHDL-2008 as well. Keep synthesizable
+code within the subset supported by the installed Quartus version. Do not switch
+the implementation to Verilog or SystemVerilog without user direction.
+
+Optimize RTL for area and avoid wide combinational fan-in. Prefer explicitly
+bounded counters, short constant comparisons, fixed shift wiring, shared
+arithmetic, and FPGA carry chains. Reduce constant timing ratios at elaboration.
+Preserve synchronous RAM inference without resetting the data array. Do not add
+wide decoders, variable-index datapaths, or replicated arithmetic without a
+documented need. Preserve the interface and exact sample timing when optimizing,
+and rerun the simulation gate. Treat mapped area, physical fan-in, and timing
+improvements as unmeasured until Quartus implementation reports are available.
+
+Report LE usage and resource utilization from the first successful Quartus
+synthesis/mapping pass before making further area optimizations. Preserve that
+first passing resource snapshot with device, baud, settings, and source hashes.
+Do not mix later optimization results into the first-pass report.
+
+## Required tools and execution order
+
+Use Intel Quartus for FPGA synthesis, mapping, fitting, and timing analysis.
+Use ModelSim for RTL compilation, elaboration, and simulation. Do not substitute
+another simulator or FPGA implementation tool without explicit user direction.
+
+Follow this order:
+
+1. Generate or modify RTL, testbenches, and reproducible tool scripts.
+2. Compile all relevant RTL and testbenches in ModelSim, then elaborate every
+   required test configuration. Resolve all errors and warnings.
+3. Run the applicable self-checking simulations, assertions, regression cases,
+   and coverage checks from the test plan. Resolve all failures and warnings.
+4. Record evidence that the code and simulation gate below has passed.
+5. Only then run Quartus Analysis & Synthesis, including FPGA mapping.
+6. After clean synthesis, run the Quartus Fitter and TimeQuest timing analysis.
+   Review resource use, inferred RAM, CDC constraints, and timing results.
+
+Quartus project files, source lists, pin assignments, and timing constraints may
+be prepared before the gate passes. Do not run synthesis, mapping, fitting, or
+a Quartus full compilation before the gate passes. Do not use synthesis as the
+first way to check generated RTL.
+
+## Mandatory code and simulation gate
+
+Generated or modified code must be complete, reviewable, and free of unresolved
+placeholders in the paths being implemented. ModelSim compilation, elaboration,
+and simulation must complete with zero errors, zero warnings, no failed
+assertions, no scoreboard mismatches, and no test timeouts. Do not hide failures
+or disable warnings or checks to make the gate appear clean.
+
+Run the full applicable RTL regression before the first FPGA synthesis or mapping
+run. Include the 75 MHz / 4 Mbaud configuration, documented baud mismatch and
+phase sweeps, the 512-byte FIFO boundary cases, overflow, reset, and diagnostic
+tests. Include the 115200-baud and small-FIFO configurations required by the test
+plan. Any required untested case or unresolved coverage requirement leaves the
+gate incomplete; do not silently waive it.
+
+The passing evidence must apply to the exact source and parameter versions used
+for implementation. Any later RTL, testbench, or functional parameter change
+invalidates the gate: rerun affected checks and the applicable regression before
+resuming synthesis or mapping. Investigate synthesis-driven RTL fixes through
+ModelSim again before repeating implementation.
+
+If a required tool, license, device library, or target setting is unavailable,
+report the blocker and continue independent source or script preparation. Do not
+skip the gate, claim unrun tests passed, or proceed to FPGA implementation.
+
+## Reproducible scripts and evidence
+
+Update `README.md` after every completed project stage, in the same work session
+as the stage completion. Keep its current-status table, design targets, toolchain
+details, and next step accurate. State what was completed, what checks actually
+ran and their results, where evidence can be found, and what remains pending or
+blocked. Update status after failed or blocked attempts as well so it does not
+imply a stage passed. Record the status date when changing the status table.
+
+Track documentation, tool discovery, RTL generation, ModelSim compilation and
+elaboration, simulation regression and coverage, Quartus project preparation,
+synthesis and mapping, fitting and timing analysis, and hardware validation as
+distinct stages. Mark a stage complete only when its required checks pass.
+Tool version checks do not count as passing simulation or synthesis. If changes
+invalidate prior verification, mark the affected README stage as requiring a
+rerun and reflect the gate's current status before proceeding.
+
+Provide checked-in ModelSim batch scripts and Quartus project/build scripts when
+implementing the design. Compile sources in explicit dependency order. Use the
+ModelSim VHDL compiler (`vcom -2008`) and run simulations in batch
+mode with `vsim -c` and `.do` scripts. Make compilation errors, assertion failures,
+mismatches, and timeouts produce a nonzero process exit status. A zero simulator
+exit status alone is not proof of success: require an explicit test pass result
+and inspect warning/error summaries.
+
+Keep generated work libraries and implementation outputs separate from source.
+Record tool versions, source revision or source hashes (including uncommitted
+changes), parameters, test names, seeds, results, and coverage status. Preserve
+logs and reproduction commands for the latest verification set. Keep only the
+latest complete verified simulation results: after a fresh passing gate, run
+`sim/clean_results.ps1` to remove superseded runs. A verified set can span multiple
+suite directories; preserve every directory referenced by the current gate.
+Old baseline results and resolved failure artifacts need not be retained. Report
+code/simulation gate status separately from synthesis, fitting, and timing status.
+
+## Quartus implementation requirements
+
+Use the selected device and automatically placed provisional I/O for the current
+build. Record the chosen provisional I/O standard and delay assumptions. The
+user's permission to use any I/O does not establish the eventual board pinout
+or electrical timing requirements; obtain those details before board sign-off.
+
+Constrain the clock to 75 MHz (approximately 13.333333 ns period). Apply and review
+appropriate synchronizer attributes and asynchronous-input constraints without
+masking synchronous internal timing paths. Inspect the 512-by-8 memory inference,
+registered read latency, full/empty behavior, and any inferred latches. Resolve
+implementation errors, warnings, and timing violations before reporting the FPGA
+build as clean. Do not program hardware unless the user authorizes programming.

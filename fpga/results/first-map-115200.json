@@ -1,0 +1,52 @@
+{
+    "build":  {
+                  "timestamp":  "2026-11-07T10:56:53.8788043+11:00",
+                  "device":  "10M16SAE144C8G",
+                  "baud":  115200,
+                  "clock_hz":  75000000,
+                  "fifo_depth":  512,
+                  "optimization":  "AGGRESSIVE AREA",
+                  "inferred_ram_passthrough":  "OFF: same-address simultaneous operations are unreachable",
+                  "io":  "Auto placement, 3.3-V LVTTL, ideal same-clock external delays; provisional",
+                  "simulation_files":  {
+                                           "sim/tb_status.vhd":  "4890767E86111ECA363233E8DDFCDA189B83B15B4A1608B28C07020E8744378B",
+                                           "sim/tb_uart.vhd":  "75E2250D3BEEC368B7D1274688887402D4297B77E8BACC7A34EBF85F6E1AFB6F",
+                                           "rtl/uart_rx_sync.vhd":  "B250675861E3366EEDD5BA370642284377676422767F591EBAF9D91B6B59E647",
+                                           "rtl/uart_rx_status.vhd":  "CE0EE3063DC88E6DB5493F1398C7520A4218EDCEBCE9049C85F31E0816F8736C",
+                                           "rtl/uart_rx_fifo.vhd":  "2B6A3032B97923F7198DC5866063B6B01EFC656F6F677DADBFE809DEAB7B1E71",
+                                           "sim/tb_support_pkg.vhd":  "E40C316F5207EAF054A42F5E33E5E839F0C4B3320CE298EF6752C62A70C204CC",
+                                           "rtl/uart_rx_tick.vhd":  "985E548CBE6683A16FE3CCE2E7972F0B629232FECA66F307B12825A72A3604F7",
+                                           "sim/tb_fifo.vhd":  "E2823C7D99A8727D5B1539D24BB9A911071B0DD093B161941DF56C722EFCC588",
+                                           "rtl/uart_rx_pkg.vhd":  "880A94A2475D2CC4D1BED45C481DE24E12A9B276E261CD123B21B87564BCC486",
+                                           "sim/run_one.do":  "6EE3502C9986D377B67BB81729B52F18128A585B77A0A819C6F1168E40A52361",
+                                           "rtl/uart_rx_circular.vhd":  "32D662DC569AF16E92563C3C7462B88221C1D4038E328AC18F4B460E98D8AE37",
+                                           "sim/tb_core.vhd":  "E009C15B669AC6203AF2B3F053ADB1419427A028EA63CAA8F2D864D9879D2DC2",
+                                           "sim/run.ps1":  "9F5A0681698998B1C85F4025DA6A8B6E068F4AE855D5180ED33CDDCF8F1A2EC1",
+                                           "sim/tb_tick.vhd":  "9B3B7B828A074CF08100BFA94D84A8A22BC608A77C80547A735C09A13093329E",
+                                           "rtl/uart_rx_core.vhd":  "982446F72B8BFC651F4A8D571EEC16B2A35C9EAE4E3F811E6F8D108789FC76E7"
+                                       },
+                  "map":  "PASS",
+                  "fit":  "NOT RUN",
+                  "timing":  "NOT RUN",
+                  "power":  "NOT RUN",
+                  "diagnostics":  {
+                                      "synthesis":  [
+
+                                                    ],
+                                      "project":  [
+
+                                                  ]
+                                  },
+                  "accepted_warning_ids":  [
+                                               292013
+                                           ],
+                  "build_files":  {
+                                      "fpga/build.ps1":  "D0056C9FD3B9FF9A96D8AE76D880FA2495A88CCD01AF636687C0B7C466967BEC",
+                                      "fpga/uart_rx_circular.sdc":  "DA8DF134EDF40EB3E2759F5E370AC8C7D79EF458E01DAC34CA85E59AC544FF56",
+                                      "fpga/provisional_pins.qsf":  "4C6B3513B16B1CDDA36968F29D0323EFB29FCEED21A42A6B0327746B5398946D",
+                                      "fpga/create_project.tcl":  "2C42278680FF2789277FD1887BDACD88E8E9E16B12D17F9E8D5AEF45FE71F53E",
+                                      "build/quartus/115200/uart_rx_circular.qsf":  "3D6829E8F915D4F1F73D3362B820E2B8C718024B6D5EE581E9D281237E68A95D"
+                                  }
+              },
+    "resource_summary":  "Analysis \u0026 Synthesis Status : Successful - Sat Nov 07 10:57:11 2026\r\nQuartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition\r\nRevision Name : uart_rx_circular\r\nTop-level Entity Name : uart_rx_circular\r\nFamily : MAX 10\r\nTotal logic elements : 255\r\n    Total combinational functions : 240\r\n    Dedicated logic registers : 147\r\nTotal registers : 147\r\nTotal pins : 79\r\nTotal virtual pins : 0\r\nTotal memory bits : 4,096\r\nEmbedded Multiplier 9-bit elements : 0\r\nTotal PLLs : 0\r\nUFM blocks : 0\r\nADC blocks : 0\r\n"
+}

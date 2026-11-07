@@ -1,3 +1,44 @@
+# Generated build directories
+build/
+db/
+incremental_db/
+output_files/
+
+# Quartus generated databases, reports, local settings, and programming files
+*.qdb
+*.qws
+*.qmsg
+*.smsg
+*.rpt
+*.summary
+*.pin
+*.sof
+*.pof
+*.rbf
+*.rpd
+*.jic
+
+# ModelSim libraries, transcripts, waveforms, and coverage databases
+work/
+transcript
+modelsim.ini
+*.wlf
+*.vcd
+*.fst
+*.ucdb
+*.vstf
+
+# Temporary files, editor backups, and operating-system metadata
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
 # Prerequisites
 *.d
 

@@ -1,0 +1,220 @@
+{
+    "timestamp":  "2026-11-07T11:12:53.0176157+11:00",
+    "status":  "PASS",
+    "required_tests":  32,
+    "passed_tests":  32,
+    "missing_tests":  [
+
+                      ],
+    "files":  {
+                  "sim/tb_status.vhd":  "4890767E86111ECA363233E8DDFCDA189B83B15B4A1608B28C07020E8744378B",
+                  "sim/tb_uart.vhd":  "75E2250D3BEEC368B7D1274688887402D4297B77E8BACC7A34EBF85F6E1AFB6F",
+                  "rtl/uart_rx_sync.vhd":  "B250675861E3366EEDD5BA370642284377676422767F591EBAF9D91B6B59E647",
+                  "rtl/uart_rx_status.vhd":  "CE0EE3063DC88E6DB5493F1398C7520A4218EDCEBCE9049C85F31E0816F8736C",
+                  "rtl/uart_rx_fifo.vhd":  "2B6A3032B97923F7198DC5866063B6B01EFC656F6F677DADBFE809DEAB7B1E71",
+                  "sim/tb_support_pkg.vhd":  "E40C316F5207EAF054A42F5E33E5E839F0C4B3320CE298EF6752C62A70C204CC",
+                  "rtl/uart_rx_tick.vhd":  "985E548CBE6683A16FE3CCE2E7972F0B629232FECA66F307B12825A72A3604F7",
+                  "sim/tb_fifo.vhd":  "E2823C7D99A8727D5B1539D24BB9A911071B0DD093B161941DF56C722EFCC588",
+                  "rtl/uart_rx_pkg.vhd":  "880A94A2475D2CC4D1BED45C481DE24E12A9B276E261CD123B21B87564BCC486",
+                  "sim/run_one.do":  "6EE3502C9986D377B67BB81729B52F18128A585B77A0A819C6F1168E40A52361",
+                  "rtl/uart_rx_circular.vhd":  "32D662DC569AF16E92563C3C7462B88221C1D4038E328AC18F4B460E98D8AE37",
+                  "sim/tb_core.vhd":  "E009C15B669AC6203AF2B3F053ADB1419427A028EA63CAA8F2D864D9879D2DC2",
+                  "sim/run.ps1":  "9F5A0681698998B1C85F4025DA6A8B6E068F4AE855D5180ED33CDDCF8F1A2EC1",
+                  "sim/tb_tick.vhd":  "9B3B7B828A074CF08100BFA94D84A8A22BC608A77C80547A735C09A13093329E",
+                  "rtl/uart_rx_core.vhd":  "982446F72B8BFC651F4A8D571EEC16B2A35C9EAE4E3F811E6F8D108789FC76E7"
+              },
+    "results":  [
+                    {
+                        "test":  "tb_fifo_-gDEPTH=2_-gSEED=17",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-454-34826f-Unit",
+                        "log":  "tb_fifo_-gDEPTH=2_-gSEED=17.log"
+                    },
+                    {
+                        "test":  "tb_fifo_-gDEPTH=4_-gSEED=17",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-454-34826f-Unit",
+                        "log":  "tb_fifo_-gDEPTH=4_-gSEED=17.log"
+                    },
+                    {
+                        "test":  "tb_fifo_-gDEPTH=512_-gSEED=17",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-454-34826f-Unit",
+                        "log":  "tb_fifo_-gDEPTH=512_-gSEED=17.log"
+                    },
+                    {
+                        "test":  "tb_status_-gWIDTH=3",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-454-34826f-Unit",
+                        "log":  "tb_status_-gWIDTH=3.log"
+                    },
+                    {
+                        "test":  "tb_status_-gWIDTH=16",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-454-34826f-Unit",
+                        "log":  "tb_status_-gWIDTH=16.log"
+                    },
+                    {
+                        "test":  "tb_tick_-gBAUD=115200",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-454-34826f-Unit",
+                        "log":  "tb_tick_-gBAUD=115200.log"
+                    },
+                    {
+                        "test":  "tb_tick_-gBAUD=1000000",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-454-34826f-Unit",
+                        "log":  "tb_tick_-gBAUD=1000000.log"
+                    },
+                    {
+                        "test":  "tb_tick_-gBAUD=4000000",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-454-34826f-Unit",
+                        "log":  "tb_tick_-gBAUD=4000000.log"
+                    },
+                    {
+                        "test":  "tb_core",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-454-34826f-Unit",
+                        "log":  "tb_core.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=115200_-gSUITE=0",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-875-3b3420-Directed",
+                        "log":  "tb_uart_-gBAUD=115200_-gSUITE=0.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=0",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-875-3b3420-Directed",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=0.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=2",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-875-3b3420-Directed",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=2.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=-2",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104154-385-6c334b-Matrix",
+                        "log":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=-2.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=-1",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104154-129-3598ad-Matrix",
+                        "log":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=-1.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=0",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104154-673-926a68-Matrix",
+                        "log":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=0.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=1",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104155-175-ad12a1-Matrix",
+                        "log":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=1.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=2",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104154-966-a3bf16-Matrix",
+                        "log":  "tb_uart_-gBAUD=115200_-gSUITE=1_-gMATRIX_OFFSET=2.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=-2",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104154-385-6c334b-Matrix",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=-2.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=-1",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104154-129-3598ad-Matrix",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=-1.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=0",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104154-673-926a68-Matrix",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=0.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=1",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104155-175-ad12a1-Matrix",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=1.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=2",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104154-966-a3bf16-Matrix",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=1_-gMATRIX_OFFSET=2.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=1",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=1.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=2",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=2.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=3",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=3.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=4",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=4.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=5",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=5.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=6",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=6.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=7",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=7.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=8",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=8.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=9",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=9.log"
+                    },
+                    {
+                        "test":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=10",
+                        "status":  "PASS",
+                        "run":  "build/sim/20261107-104153-607-8580b7-Stress",
+                        "log":  "tb_uart_-gBAUD=4000000_-gSUITE=3_-gSEED=10.log"
+                    }
+                ]
+}

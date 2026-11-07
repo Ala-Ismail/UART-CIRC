@@ -1,0 +1,1134 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 2020  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions
+# and other software and tools, and any partner logic
+# functions, and any output files from any of the foregoing
+# (including device programming or simulation files), and any
+# associated documentation or information are expressly subject
+# to the terms and conditions of the Intel Program License
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus Prime
+# Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+# Date created = 10:56:54  November 07, 2026
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		uart_rx_circular_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus Prime software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 2020  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions
+# and other software and tools, and any partner logic
+# functions, and any output files from any of the foregoing
+# (including device programming or simulation files), and any
+# associated documentation or information are expressly subject
+# to the terms and conditions of the Intel Program License
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus Prime
+# Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+# Date created = 10:56:16  November 07, 2026
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		uart_rx_circular_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus Prime software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 2020  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions
+# and other software and tools, and any partner logic
+# functions, and any output files from any of the foregoing
+# (including device programming or simulation files), and any
+# associated documentation or information are expressly subject
+# to the terms and conditions of the Intel Program License
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus Prime
+# Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+# Date created = 10:49:22  November 07, 2026
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		uart_rx_circular_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus Prime software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 2020  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions
+# and other software and tools, and any partner logic
+# functions, and any output files from any of the foregoing
+# (including device programming or simulation files), and any
+# associated documentation or information are expressly subject
+# to the terms and conditions of the Intel Program License
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus Prime
+# Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+# Date created = 10:46:40  November 07, 2026
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		uart_rx_circular_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus Prime software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 2020  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions
+# and other software and tools, and any partner logic
+# functions, and any output files from any of the foregoing
+# (including device programming or simulation files), and any
+# associated documentation or information are expressly subject
+# to the terms and conditions of the Intel Program License
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus Prime
+# Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+# Date created = 10:39:22  November 07, 2026
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		uart_rx_circular_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus Prime software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY "MAX 10"
+set_global_assignment -name DEVICE 10M16SAE144C8G
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 20.1.1
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "10:39:22  NOVEMBER 07, 2026"
+set_global_assignment -name LAST_QUARTUS_VERSION "20.1.1 Lite Edition"
+set_global_assignment -name VHDL_INPUT_VERSION VHDL_2008
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY "../build/quartus/gui/output_files"
+set_global_assignment -name OPTIMIZATION_MODE "AGGRESSIVE AREA"
+set_global_assignment -name NUM_PARALLEL_PROCESSORS 4
+set_parameter -name CLK_HZ 75000000
+set_parameter -name BAUD_RATE 4000000
+set_parameter -name FIFO_DEPTH 512
+set_parameter -name OVERSAMPLE 16
+set_parameter -name ERROR_COUNT_WIDTH 16
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to *
+set_global_assignment -name VHDL_FILE "../rtl/uart_rx_pkg.vhd"
+set_global_assignment -name VHDL_FILE "../rtl/uart_rx_sync.vhd"
+set_global_assignment -name VHDL_FILE "../rtl/uart_rx_tick.vhd"
+set_global_assignment -name VHDL_FILE "../rtl/uart_rx_core.vhd"
+set_global_assignment -name VHDL_FILE "../rtl/uart_rx_fifo.vhd"
+set_global_assignment -name VHDL_FILE "../rtl/uart_rx_status.vhd"
+set_global_assignment -name VHDL_FILE "../rtl/uart_rx_circular.vhd"
+set_global_assignment -name SDC_FILE "uart_rx_circular.sdc"
+set_global_assignment -name ADD_PASS_THROUGH_LOGIC_TO_INFERRED_RAMS OFF
+set_location_assignment PIN_13 -to rd_ready
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_ready
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_ready
+set_instance_assignment -name SLEW_RATE 2 -to rd_ready
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_ready
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_ready
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_ready
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_ready
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_ready
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_ready
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_ready
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_ready
+set_location_assignment PIN_130 -to rd_data[0]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_data[0]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_data[0]
+set_instance_assignment -name SLEW_RATE 2 -to rd_data[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_data[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_data[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_data[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_data[0]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_data[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_data[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_data[0]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_data[0]
+set_location_assignment PIN_57 -to rd_data[1]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_data[1]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_data[1]
+set_instance_assignment -name SLEW_RATE 2 -to rd_data[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_data[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_data[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_data[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_data[1]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_data[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_data[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_data[1]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_data[1]
+set_location_assignment PIN_124 -to rd_data[2]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_data[2]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_data[2]
+set_instance_assignment -name SLEW_RATE 2 -to rd_data[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_data[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_data[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_data[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_data[2]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_data[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_data[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_data[2]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_data[2]
+set_location_assignment PIN_123 -to rd_data[3]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_data[3]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_data[3]
+set_instance_assignment -name SLEW_RATE 2 -to rd_data[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_data[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_data[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_data[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_data[3]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_data[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_data[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_data[3]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_data[3]
+set_location_assignment PIN_120 -to rd_data[4]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_data[4]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_data[4]
+set_instance_assignment -name SLEW_RATE 2 -to rd_data[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_data[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_data[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_data[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_data[4]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_data[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_data[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_data[4]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_data[4]
+set_location_assignment PIN_121 -to rd_data[5]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_data[5]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_data[5]
+set_instance_assignment -name SLEW_RATE 2 -to rd_data[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_data[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_data[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_data[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_data[5]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_data[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_data[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_data[5]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_data[5]
+set_location_assignment PIN_132 -to rd_data[6]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_data[6]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_data[6]
+set_instance_assignment -name SLEW_RATE 2 -to rd_data[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_data[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_data[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_data[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_data[6]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_data[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_data[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_data[6]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_data[6]
+set_location_assignment PIN_122 -to rd_data[7]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_data[7]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_data[7]
+set_instance_assignment -name SLEW_RATE 2 -to rd_data[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_data[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_data[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_data[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_data[7]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_data[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_data[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_data[7]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_data[7]
+set_location_assignment PIN_7 -to rd_valid
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_valid
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rd_valid
+set_instance_assignment -name SLEW_RATE 2 -to rd_valid
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rd_valid
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rd_valid
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rd_valid
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rd_valid
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rd_valid
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rd_valid
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rd_valid
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rd_valid
+set_location_assignment PIN_14 -to empty
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to empty
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to empty
+set_instance_assignment -name SLEW_RATE 2 -to empty
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to empty
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to empty
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to empty
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to empty
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to empty
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to empty
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to empty
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to empty
+set_location_assignment PIN_97 -to full
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to full
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to full
+set_instance_assignment -name SLEW_RATE 2 -to full
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to full
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to full
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to full
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to full
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to full
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to full
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to full
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to full
+set_location_assignment PIN_101 -to level[0]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[0]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[0]
+set_instance_assignment -name SLEW_RATE 2 -to level[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[0]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[0]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[0]
+set_location_assignment PIN_111 -to level[1]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[1]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[1]
+set_instance_assignment -name SLEW_RATE 2 -to level[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[1]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[1]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[1]
+set_location_assignment PIN_99 -to level[2]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[2]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[2]
+set_instance_assignment -name SLEW_RATE 2 -to level[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[2]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[2]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[2]
+set_location_assignment PIN_96 -to level[3]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[3]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[3]
+set_instance_assignment -name SLEW_RATE 2 -to level[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[3]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[3]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[3]
+set_location_assignment PIN_112 -to level[4]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[4]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[4]
+set_instance_assignment -name SLEW_RATE 2 -to level[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[4]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[4]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[4]
+set_location_assignment PIN_113 -to level[5]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[5]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[5]
+set_instance_assignment -name SLEW_RATE 2 -to level[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[5]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[5]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[5]
+set_location_assignment PIN_6 -to level[6]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[6]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[6]
+set_instance_assignment -name SLEW_RATE 2 -to level[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[6]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[6]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[6]
+set_location_assignment PIN_119 -to level[7]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[7]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[7]
+set_instance_assignment -name SLEW_RATE 2 -to level[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[7]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[7]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[7]
+set_location_assignment PIN_102 -to level[8]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[8]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[8]
+set_instance_assignment -name SLEW_RATE 2 -to level[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[8]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[8]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[8]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[8]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[8]
+set_location_assignment PIN_98 -to level[9]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to level[9]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to level[9]
+set_instance_assignment -name SLEW_RATE 2 -to level[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to level[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to level[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to level[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to level[9]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to level[9]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to level[9]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to level[9]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to level[9]
+set_location_assignment PIN_27 -to rx_busy
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rx_busy
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to rx_busy
+set_instance_assignment -name SLEW_RATE 2 -to rx_busy
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to rx_busy
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to rx_busy
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to rx_busy
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to rx_busy
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to rx_busy
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to rx_busy
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to rx_busy
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to rx_busy
+set_location_assignment PIN_84 -to framing_error
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error
+set_instance_assignment -name SLEW_RATE 2 -to framing_error
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error
+set_location_assignment PIN_87 -to overflow
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow
+set_instance_assignment -name SLEW_RATE 2 -to overflow
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow
+set_location_assignment PIN_69 -to break_active
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_active
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_active
+set_instance_assignment -name SLEW_RATE 2 -to break_active
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_active
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_active
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_active
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_active
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_active
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_active
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_active
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_active
+set_location_assignment PIN_74 -to framing_error_count[0]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[0]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[0]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[0]
+set_location_assignment PIN_45 -to framing_error_count[1]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[1]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[1]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[1]
+set_location_assignment PIN_76 -to framing_error_count[2]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[2]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[2]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[2]
+set_location_assignment PIN_135 -to framing_error_count[3]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[3]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[3]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[3]
+set_location_assignment PIN_134 -to framing_error_count[4]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[4]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[4]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[4]
+set_location_assignment PIN_62 -to framing_error_count[5]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[5]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[5]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[5]
+set_location_assignment PIN_54 -to framing_error_count[6]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[6]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[6]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[6]
+set_location_assignment PIN_39 -to framing_error_count[7]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[7]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[7]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[7]
+set_location_assignment PIN_48 -to framing_error_count[8]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[8]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[8]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[8]
+set_location_assignment PIN_127 -to framing_error_count[9]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[9]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[9]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[9]
+set_location_assignment PIN_56 -to framing_error_count[10]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[10]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[10]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[10]
+set_location_assignment PIN_55 -to framing_error_count[11]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[11]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[11]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[11]
+set_location_assignment PIN_47 -to framing_error_count[12]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[12]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[12]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[12]
+set_location_assignment PIN_43 -to framing_error_count[13]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[13]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[13]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[13]
+set_location_assignment PIN_78 -to framing_error_count[14]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[14]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[14]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[14]
+set_location_assignment PIN_86 -to framing_error_count[15]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to framing_error_count[15]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to framing_error_count[15]
+set_instance_assignment -name SLEW_RATE 2 -to framing_error_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to framing_error_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to framing_error_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to framing_error_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to framing_error_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to framing_error_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to framing_error_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to framing_error_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to framing_error_count[15]
+set_location_assignment PIN_32 -to overflow_count[0]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[0]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[0]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[0]
+set_location_assignment PIN_44 -to overflow_count[1]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[1]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[1]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[1]
+set_location_assignment PIN_58 -to overflow_count[2]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[2]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[2]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[2]
+set_location_assignment PIN_30 -to overflow_count[3]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[3]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[3]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[3]
+set_location_assignment PIN_66 -to overflow_count[4]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[4]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[4]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[4]
+set_location_assignment PIN_65 -to overflow_count[5]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[5]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[5]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[5]
+set_location_assignment PIN_77 -to overflow_count[6]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[6]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[6]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[6]
+set_location_assignment PIN_52 -to overflow_count[7]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[7]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[7]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[7]
+set_location_assignment PIN_60 -to overflow_count[8]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[8]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[8]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[8]
+set_location_assignment PIN_85 -to overflow_count[9]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[9]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[9]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[9]
+set_location_assignment PIN_59 -to overflow_count[10]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[10]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[10]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[10]
+set_location_assignment PIN_50 -to overflow_count[11]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[11]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[11]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[11]
+set_location_assignment PIN_79 -to overflow_count[12]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[12]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[12]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[12]
+set_location_assignment PIN_41 -to overflow_count[13]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[13]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[13]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[13]
+set_location_assignment PIN_88 -to overflow_count[14]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[14]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[14]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[14]
+set_location_assignment PIN_46 -to overflow_count[15]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to overflow_count[15]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to overflow_count[15]
+set_instance_assignment -name SLEW_RATE 2 -to overflow_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to overflow_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to overflow_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to overflow_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to overflow_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to overflow_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to overflow_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to overflow_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to overflow_count[15]
+set_location_assignment PIN_80 -to break_count[0]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[0]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[0]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[0]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[0]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[0]
+set_location_assignment PIN_11 -to break_count[1]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[1]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[1]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[1]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[1]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[1]
+set_location_assignment PIN_10 -to break_count[2]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[2]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[2]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[2]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[2]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[2]
+set_location_assignment PIN_110 -to break_count[3]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[3]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[3]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[3]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[3]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[3]
+set_location_assignment PIN_91 -to break_count[4]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[4]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[4]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[4]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[4]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[4]
+set_location_assignment PIN_29 -to break_count[5]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[5]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[5]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[5]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[5]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[5]
+set_location_assignment PIN_81 -to break_count[6]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[6]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[6]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[6]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[6]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[6]
+set_location_assignment PIN_141 -to break_count[7]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[7]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[7]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[7]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[7]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[7]
+set_location_assignment PIN_118 -to break_count[8]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[8]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[8]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[8]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[8]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[8]
+set_location_assignment PIN_70 -to break_count[9]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[9]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[9]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[9]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[9]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[9]
+set_location_assignment PIN_90 -to break_count[10]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[10]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[10]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[10]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[10]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[10]
+set_location_assignment PIN_92 -to break_count[11]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[11]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[11]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[11]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[11]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[11]
+set_location_assignment PIN_93 -to break_count[12]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[12]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[12]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[12]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[12]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[12]
+set_location_assignment PIN_12 -to break_count[13]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[13]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[13]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[13]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[13]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[13]
+set_location_assignment PIN_89 -to break_count[14]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[14]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[14]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[14]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[14]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[14]
+set_location_assignment PIN_140 -to break_count[15]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to break_count[15]
+set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to break_count[15]
+set_instance_assignment -name SLEW_RATE 2 -to break_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_C OPEN -to break_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_SERIES_R SHORT -to break_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLUP_R OPEN -to break_count[15]
+set_instance_assignment -name BOARD_MODEL_NEAR_PULLDOWN_R OPEN -to break_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_SERIES_R SHORT -to break_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLUP_R OPEN -to break_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_PULLDOWN_R OPEN -to break_count[15]
+set_instance_assignment -name BOARD_MODEL_FAR_C OPEN -to break_count[15]
+set_location_assignment PIN_131 -to rst
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rst
+set_location_assignment PIN_28 -to clk
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to clk
+set_location_assignment PIN_8 -to rd_req
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to rd_req
+set_location_assignment PIN_61 -to clear_status
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to clear_status
+set_location_assignment PIN_64 -to uart_rx_i
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to uart_rx_i
+set_location_assignment PIN_16 -to ~ALTERA_TMS~
+set_location_assignment PIN_18 -to ~ALTERA_TCK~
+set_location_assignment PIN_19 -to ~ALTERA_TDI~
+set_location_assignment PIN_20 -to ~ALTERA_TDO~
+set_location_assignment PIN_126 -to ~ALTERA_CONFIG_SEL~
+set_location_assignment PIN_129 -to ~ALTERA_nCONFIG~
+set_location_assignment PIN_136 -to ~ALTERA_nSTATUS~
+set_location_assignment PIN_138 -to ~ALTERA_CONF_DONE~
+set_global_assignment -name USE_LOGICLOCK_CONSTRAINTS_IN_BALANCING OFF
+set_global_assignment -name CONFIGURATION_VCCIO_LEVEL 3.3V
+set_global_assignment -name FORCE_CONFIGURATION_VCCIO ON
+set_global_assignment -name TOP_LEVEL_ENTITY uart_rx_circular
+
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
